@@ -19,7 +19,7 @@ body {
     width: 100%;
     height: 100vh;
     font-size: 16px;
-    background-image: url(images/jonathan-pease-Niy6KKRAu1Y-unsplash.jpg);
+    background-image: url(src/images/jonathan-pease-Niy6KKRAu1Y-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position:  55% center;
